@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "bottom": "ice_and_fire_banquet:block/dragon_fire_stove_bottom",
+    "front": "ice_and_fire_banquet:block/dragon_fire_stove_front",
+    "side": "ice_and_fire_banquet:block/dragon_fire_stove_side",
+    "top": "farmersdelight:block/stove_top"
+  }
+}

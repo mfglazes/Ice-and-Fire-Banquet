@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ice_and_fire_banquet:item/fire_dragon_red_head_banquet"
+  }
+}

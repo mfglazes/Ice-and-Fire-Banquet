@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ice_and_fire_banquet:item/lightning_dragon_meat_slice"
+  }
+}

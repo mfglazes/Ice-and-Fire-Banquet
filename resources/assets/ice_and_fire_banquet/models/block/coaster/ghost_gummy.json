@@ -1,0 +1,24 @@
+{
+	"credit": "Made with Blockbench, by Millions_of_glazes.",
+	"ambientocclusion": false,
+	"render_type": "translucent",
+	"textures": {
+		"particle": "#gummy",
+		"gummy": "ice_and_fire_banquet:block/coaster/ghost_gummy"
+	},
+	"elements": [
+		{
+			"from": [6.5, 0, 5],
+			"to": [9.5, 3, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 6]},
+			"faces": {
+				"north": {"uv": [1, 6, 5, 9], "texture": "#gummy"},
+				"east": {"uv": [1, 6, 5, 9], "texture": "#gummy"},
+				"south": {"uv": [1, 6, 5, 9], "texture": "#gummy"},
+				"west": {"uv": [1, 6, 5, 9], "texture": "#gummy"},
+				"up": {"uv": [1, 1, 4, 5], "texture": "#gummy"},
+				"down": {"uv": [5, 1, 8, 5], "texture": "#gummy"}
+			}
+		}
+	]
+}

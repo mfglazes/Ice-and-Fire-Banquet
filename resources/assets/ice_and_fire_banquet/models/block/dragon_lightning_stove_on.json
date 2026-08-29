@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "bottom": "ice_and_fire_banquet:block/dragon_lightning_stove_bottom",
+    "front": "ice_and_fire_banquet:block/dragon_lightning_stove_front_on",
+    "side": "ice_and_fire_banquet:block/dragon_lightning_stove_side",
+    "top": "ice_and_fire_banquet:block/dragon_lightning_stove_top_on"
+  }
+}

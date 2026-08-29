@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "farmersdelight:block/crate_bottom",
+    "top": "ice_and_fire_banquet:block/lightning_lily_crate_top",
+    "side": "ice_and_fire_banquet:block/lightning_lily_crate_side"
+  }
+}
