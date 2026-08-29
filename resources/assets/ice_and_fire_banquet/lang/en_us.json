@@ -1,0 +1,61 @@
+{
+  "itemGroup.ice_and_fire_banquet_tab": "Ice and Fire banquet",
+  "itemGroup.ice_and_fire_banquet_combination": "Ice and Fire banquet丨Combination",
+
+  "block.ice_and_fire_banquet.fire_lily_crate": "Fire Lily Crate",
+  "block.ice_and_fire_banquet.frost_lily_crate": "Frost Lily Crate",
+  "block.ice_and_fire_banquet.lightning_lily_crate": "Lightning Lily Crate",
+  "block.ice_and_fire_banquet.podium_lucuma": "Lucuma Podium",
+  "block.ice_and_fire_banquet.dragon_ice_stove": "Dragon Ice Stove",
+  "block.ice_and_fire_banquet.dragon_fire_stove": "Dragon Fire Stove",
+  "block.ice_and_fire_banquet.dragon_lightning_stove": "Dragon Lightning Stove",
+
+  "item.ice_and_fire_banquet.silver_knife": "Silver Knife",
+  "item.ice_and_fire_banquet.copper_knife": "Copper Knife",
+  "item.ice_and_fire_banquet.ghost_knife": "Phantasmal Knife",
+  "item.ice_and_fire_banquet.dragonbone_knife": "DragonBone Knife",
+  "item.ice_and_fire_banquet.dragonsteel_fire_knife": "DragonSteel Fire Knife",
+  "item.ice_and_fire_banquet.dragonsteel_ice_knife": "DragonSteel Ice Knife",
+  "item.ice_and_fire_banquet.dragonsteel_lightning_knife": "DragonSteel Lightning Knife",
+  "item.ice_and_fire_banquet.main_title_music_disc": "§bMusic Disc",
+  "item.ice_and_fire_banquet.main_title_music_disc.desc": "Main Title",
+
+  "item.ice_and_fire_banquet.ghost_popsicle": "Ghost Popsicle",
+  "item.ice_and_fire_banquet.fire_dragon_meat_slice": "Fire Dragon Flesh Slice",
+  "item.ice_and_fire_banquet.ice_dragon_meat_slice": "Ice Dragon Flesh Slice",
+  "item.ice_and_fire_banquet.lightning_dragon_meat_slice": "Lightning Dragon Flesh Slice",
+  "item.ice_and_fire_banquet.fire_dragon_red_female_head_banquet": "Dragon Head Banquet",
+  "item.ice_and_fire_banquet.fire_dragon_blood_curry": "Fire Dragon Blood Curry",
+
+  "item.ice_and_fire_banquet.ghost_gummy": "Ghost Gummy",
+
+  "fluid_type.ice_and_fire_banquet.fire_dragon_blood_type": "Fire Dragon Blood",
+  "fluid_type.ice_and_fire_banquet.ice_dragon_blood_type": "Ice Dragon Blood",
+  "fluid_type.ice_and_fire_banquet.lightning_dragon_blood_type": "Lightning Dragon Blood",
+
+  "effect.ice_and_fire_banquet.ghost": "Ghost",
+  "effect.ice_and_fire_banquet.golden_eye": "Golden Eye",
+
+  "advancements.ice_and_fire_banquet.banquet.root.title": "Cookery of Ice and Fire",
+  "advancements.ice_and_fire_banquet.banquet.root.description": "Obtain a Bestiary with the Ice and Fire Cookery entry",
+  "advancements.ice_and_fire_banquet.banquet.golden_eye.title": "All the king's blood will end with the sword",
+  "advancements.ice_and_fire_banquet.banquet.golden_eye.description": "Gain the Golden Eye effect",
+
+  "command.ice_and_fire_banquet.player_only": "This command can only be executed by a player",
+  "command.ice_and_fire_banquet.invalid_type": "Invalid type! Use fire, ice, or lightning",
+  "command.ice_and_fire_banquet.invalid_color": "Invalid color! Available: %s",
+  "command.ice_and_fire_banquet.invalid_gender": "Invalid gender! Use male or female",
+  "command.ice_and_fire_banquet.success": "Given Golden Eye: type=%s color=%s gender=%s level=%s duration=%ss speed=%sx",
+
+  "key.category.ice_and_fire_banquet": "Ice and Fire banquet",
+  "key.ice_and_fire_banquet.transform": "Dragon Morph",
+  "key.ice_and_fire_banquet.roar": "Dragon Roar",
+
+  "container.lectern.no_bestiary": "Cannot add pages",
+  "container.lectern.costs": "Costs:",
+  "container.lectern.manuscript.many": "%s Manuscripts",
+  "bestiary.hold_shift": "Hold §e[SHIFT]§r§7 to view contents",
+  "bestiary.cookery": "Cookery",
+
+  "jei.farmersdelight.info.knife": "A lightweight melee weapon, with fast swings and gentle damage.\n\nThey can harvest Straw from grasses, and guarantee secondary drops from animals."
+}

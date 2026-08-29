@@ -1,0 +1,10 @@
+{
+  "main_title": {
+    "sounds": [
+      {
+        "name": "ice_and_fire_banquet:main_title",
+        "stream": true
+      }
+    ]
+  }
+}
