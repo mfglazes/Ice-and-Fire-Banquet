@@ -1,0 +1,13 @@
+{
+  "type": "brewinandchewin:keg_pouring",
+  "amount": 250,
+  "filling": true,
+  "fluid": "ice_and_fire_banquet:ice_dragon_blood",
+  "output": {
+    "item": "iceandfire:ice_dragon_blood"
+  },
+  "container": {
+    "item": "minecraft:glass_bottle"
+  },
+  "strict": false
+}

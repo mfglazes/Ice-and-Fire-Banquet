@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SPS",
+    " P ",
+    "SPS"
+  ],
+  "key": {
+    "S": {
+      "item": "collectorsreap:lucuma_slab"
+    },
+    "P": {
+      "item": "collectorsreap:lucuma_planks"
+    }
+  },
+  "result": {
+    "item": "ice_and_fire_banquet:podium_lucuma"
+  }
+}

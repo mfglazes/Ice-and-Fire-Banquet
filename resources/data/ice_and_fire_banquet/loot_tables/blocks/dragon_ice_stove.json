@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "ice_and_fire_banquet:dragon_ice_stove"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "ice_and_fire_banquet:blocks/dragon_ice_stove"
+}

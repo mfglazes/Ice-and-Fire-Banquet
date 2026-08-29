@@ -1,0 +1,182 @@
+{
+  "parent": "farmersdelight:main/root",
+  "criteria": {
+    "diamond_knife": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "farmersdelight:diamond_knife"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "flint_knife": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "farmersdelight:flint_knife"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "golden_knife": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "farmersdelight:golden_knife"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "silver_knife": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ice_and_fire_banquet:silver_knife"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "iron_knife": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "farmersdelight:iron_knife"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "copper_knife": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ice_and_fire_banquet:copper_knife"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "netherite_knife": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "farmersdelight:netherite_knife"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "ghost_knife": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ice_and_fire_banquet:ghost_knife"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "dragonbone_knife": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ice_and_fire_banquet:dragonbone_knife"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "dragonsteel_fire_knife": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ice_and_fire_banquet:dragonsteel_fire_knife"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "dragonsteel_ice_knife": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ice_and_fire_banquet:dragonsteel_ice_knife"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "dragonsteel_lightning_knife": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ice_and_fire_banquet:dragonsteel_lightning_knife"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "farmersdelight.advancement.craft_knife.desc"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "farmersdelight:flint_knife",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "farmersdelight.advancement.craft_knife"
+    }
+  },
+  "requirements": [
+    [
+      "flint_knife",
+      "copper_knife",
+      "iron_knife",
+      "silver_knife",
+      "diamond_knife",
+      "golden_knife",
+      "netherite_knife",
+      "ghost_knife",
+      "dragonbone_knife",
+      "dragonsteel_fire_knife",
+      "dragonsteel_ice_knife",
+      "dragonsteel_lightning_knife"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

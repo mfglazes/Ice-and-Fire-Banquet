@@ -1,0 +1,44 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "iceandfire"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "collectorsreap"
+        },
+        {
+          "type": "forge:item_exists",
+          "item": "iceandfire:ectoplasm"
+        }
+      ],
+      "recipe": {
+        "type": "farmersdelight:cooking",
+        "cookingtime": 200,
+        "experience": 1.0,
+        "ingredients": [
+          {
+            "item": "iceandfire:ectoplasm"
+          },
+          {
+            "item": "minecraft:sugar"
+          },
+          {
+            "item": "minecraft:honey_bottle"
+          },
+          {
+            "item": "minecraft:kelp"
+          }
+        ],
+        "recipe_book_tab": "misc",
+        "result": {
+          "item": "ice_and_fire_banquet:ghost_gummy"
+        }
+      }
+    }
+  ]
+}

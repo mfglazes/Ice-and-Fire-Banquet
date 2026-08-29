@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "iceandfire:dragonforge_lightning_brick"
+    },
+    "C": {
+      "item": "minecraft:campfire"
+    },
+    "D": {
+      "item": "iceandfire:lightning_dragon_heart"
+    },
+    "i": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "pattern": [
+    "iii",
+    "BDB",
+    "BCB"
+  ],
+  "result": {
+    "item": "ice_and_fire_banquet:dragon_lightning_stove"
+  },
+  "show_notification": true
+}

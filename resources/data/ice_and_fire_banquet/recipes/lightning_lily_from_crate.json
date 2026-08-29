@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ice_and_fire_banquet:lightning_lily_crate"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "iceandfire:lightning_lily"
+  }
+}

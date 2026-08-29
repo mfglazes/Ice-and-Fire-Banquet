@@ -1,0 +1,10 @@
+{
+  "values": [
+    "brewinandchewin:ice_crate",
+    "minecraft:ice",
+    "minecraft:packed_ice",
+    "minecraft:blue_ice",
+    "#iceandfire:frozen_blocks",
+    "iceandfire:dragon_ice"
+  ]
+}

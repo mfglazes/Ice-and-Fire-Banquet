@@ -1,0 +1,11 @@
+{
+  "values": [
+    "minecraft:magma_block",
+    "minecraft:lava_cauldron",
+    "ice_and_fire_banquet:dragon_ice_stove",
+    "ice_and_fire_banquet:dragon_fire_stove",
+    "ice_and_fire_banquet:dragon_lightning_stove",
+    "farmersdelight:stove",
+    "#farmersdelight:tray_heat_sources"
+  ]
+}

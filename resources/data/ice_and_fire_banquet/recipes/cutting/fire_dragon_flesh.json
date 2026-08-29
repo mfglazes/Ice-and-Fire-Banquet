@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "iceandfire:fire_dragon_flesh"
+    }
+  ],
+  "result": [
+    {
+      "count": 3,
+      "item": "ice_and_fire_banquet:fire_dragon_meat_slice"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

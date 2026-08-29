@@ -1,0 +1,58 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "iceandfire"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "brewinandchewin"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "collectorsreap"
+        },
+        {
+          "type": "collectorsreap:enabled",
+          "value": "reanimators_garden"
+        },
+        {
+          "type": "forge:item_exists",
+          "item": "iceandfire:ice_dragon_flesh"
+        }
+      ],
+      "recipe": {
+        "type": "brewinandchewin:fermenting",
+        "basefluid": {
+          "count": 1000,
+          "fluid": "collectorsreap:reanimators_garden"
+        },
+        "experience": 1.0,
+        "fermentingtime": 4800,
+        "ingredients": [
+          {
+            "item": "iceandfire:ice_dragon_flesh"
+          },
+          {
+            "item": "iceandfire:ice_dragon_flesh"
+          },
+          {
+            "item": "iceandfire:ice_dragon_flesh"
+          },
+          {
+            "item": "iceandfire:ice_dragon_flesh"
+          }
+        ],
+        "recipe_book_tab": "drinks",
+        "result": {
+          "count": 1000,
+          "fluid": "ice_and_fire_banquet:ice_dragon_blood"
+        },
+        "temperature": 1
+      }
+    }
+  ]
+}

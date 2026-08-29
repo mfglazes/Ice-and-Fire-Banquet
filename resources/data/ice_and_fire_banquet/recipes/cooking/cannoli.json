@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "farmersdelight:pie_crust"
+    },
+    {
+      "item": "farmersdelight:pie_crust"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "forge:berries"
+    },
+    {
+      "tag": "forge:milk"
+    },
+    {
+      "tag": "forge:nuggets/copper"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "item": "iceandfire:cannoli"
+  }
+}

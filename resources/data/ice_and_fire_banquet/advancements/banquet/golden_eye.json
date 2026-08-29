@@ -1,0 +1,31 @@
+{
+  "parent": "ice_and_fire_banquet:banquet/root",
+  "display": {
+    "icon": {
+      "item": "ice_and_fire_banquet:golden_eye_icon"
+    },
+    "title": {
+      "translate": "advancements.ice_and_fire_banquet.banquet.golden_eye.title"
+    },
+    "description": {
+      "translate": "advancements.ice_and_fire_banquet.banquet.golden_eye.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "has_golden_eye": {
+      "trigger": "minecraft:effects_changed",
+      "conditions": {
+        "effects": {
+          "ice_and_fire_banquet:golden_eye": {}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "m": {
+      "item": "iceandfire:dragonsteel_lightning_ingot"
+    },
+    "s": {
+      "item": "iceandfire:witherbone"
+    }
+  },
+  "pattern": [
+    "m",
+    "s"
+  ],
+  "result": {
+    "item": "ice_and_fire_banquet:dragonsteel_lightning_knife"
+  },
+  "show_notification": true
+}
