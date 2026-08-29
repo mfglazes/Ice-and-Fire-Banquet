@@ -1,0 +1,61 @@
+{
+  "itemGroup.ice_and_fire_banquet_tab": "冰火筵席",
+  "itemGroup.ice_and_fire_banquet_combination": "冰火筵席丨联动",
+
+  "block.ice_and_fire_banquet.fire_lily_crate": "箱装烈焰百合",
+  "block.ice_and_fire_banquet.frost_lily_crate": "箱装寒冰百合",
+  "block.ice_and_fire_banquet.lightning_lily_crate": "箱装闪电百合",
+  "block.ice_and_fire_banquet.podium_lucuma": "蛋黄果木展台",
+  "block.ice_and_fire_banquet.dragon_ice_stove": "龙霜炉灶",
+  "block.ice_and_fire_banquet.dragon_fire_stove": "龙炎炉灶",
+  "block.ice_and_fire_banquet.dragon_lightning_stove": "龙霆炉灶",
+
+  "item.ice_and_fire_banquet.ghost_popsicle": "幽灵冰棍",
+  "item.ice_and_fire_banquet.fire_dragon_meat_slice": "火龙肉切片",
+  "item.ice_and_fire_banquet.ice_dragon_meat_slice": "冰龙肉切片",
+  "item.ice_and_fire_banquet.lightning_dragon_meat_slice": "电龙肉切片",
+  "item.ice_and_fire_banquet.silver_knife": "银刀",
+  "item.ice_and_fire_banquet.copper_knife": "铜刀",
+  "item.ice_and_fire_banquet.ghost_knife": "幻灵刀",
+  "item.ice_and_fire_banquet.dragonbone_knife": "龙骨刀",
+  "item.ice_and_fire_banquet.dragonsteel_fire_knife": "龙炎钢刀",
+  "item.ice_and_fire_banquet.dragonsteel_ice_knife": "龙霜钢刀",
+  "item.ice_and_fire_banquet.dragonsteel_lightning_knife": "龙霆钢刀",
+
+  "item.ice_and_fire_banquet.main_title_music_disc": "§b音乐唱片",
+  "item.ice_and_fire_banquet.main_title_music_disc.desc": "权力的游戏",
+  "item.ice_and_fire_banquet.fire_dragon_red_female_head_banquet": "龙头宴",
+  "item.ice_and_fire_banquet.fire_dragon_blood_curry": "火龙血咖喱",
+
+  "item.ice_and_fire_banquet.ghost_gummy": "幽灵软糖",
+
+  "fluid_type.ice_and_fire_banquet.fire_dragon_blood_type": "火龙血",
+  "fluid_type.ice_and_fire_banquet.ice_dragon_blood_type": "冰龙血",
+  "fluid_type.ice_and_fire_banquet.lightning_dragon_blood_type": "电龙血",
+
+  "effect.ice_and_fire_banquet.ghost": "幽灵",
+  "effect.ice_and_fire_banquet.golden_eye": "黄金瞳",
+
+  "advancements.ice_and_fire_banquet.banquet.root.title": "冰火烹饪术",
+  "advancements.ice_and_fire_banquet.banquet.root.description": "获得记载冰火烹饪术的异兽手记",
+  "advancements.ice_and_fire_banquet.banquet.golden_eye.title": "凡王之血，必以剑终",
+  "advancements.ice_and_fire_banquet.banquet.golden_eye.description": "获得黄金瞳效果",
+
+  "command.ice_and_fire_banquet.player_only": "该命令只能由玩家执行",
+  "command.ice_and_fire_banquet.invalid_type": "无效的种类！请使用 fire、ice 或 lightning",
+  "command.ice_and_fire_banquet.invalid_color": "无效的颜色！可选：%s",
+  "command.ice_and_fire_banquet.invalid_gender": "无效的性别！请使用 male 或 female",
+  "command.ice_and_fire_banquet.success": "已给予黄金瞳：种类=%s 颜色=%s 性别=%s 等级=%s 时长=%s秒 速度加成=%sx",
+
+  "key.category.ice_and_fire_banquet": "冰火筵席",
+  "key.ice_and_fire_banquet.transform": "化龙",
+  "key.ice_and_fire_banquet.roar": "咆哮",
+
+  "container.lectern.no_bestiary": "没有可增加的篇目了。",
+  "container.lectern.costs": "消耗：",
+  "container.lectern.manuscript.many": "%s张手稿",
+  "bestiary.hold_shift": "按住§e[SHIFT]§r§7以查阅目录",
+  "bestiary.cookery": "冰火烹饪术",
+
+  "jei.farmersdelight.info.knife": "小刀是轻量的近战武器。你可以用它们从草类植物中获得草秆，也可以击杀动物以获得副掉落物。"
+}
